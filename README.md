@@ -27,6 +27,6 @@ In this capstone project, we aim to predict whether the Falcon 9 first stage wil
 ## Getting Started
 
 ### Prerequisites
-- Python 3.x
+- Python 3.12.1
 - Jupyter Notebook
 - Libraries: pandas, numpy, matplotlib, seaborn, plotly, dash, folium, scikit-learn, beautifulsoup4, requests
